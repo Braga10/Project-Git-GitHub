@@ -1,0 +1,5 @@
+# CSS
+
+O CSS é uma linguagem de folhas de estilos que é utilizada para definir como os documentos escritos na linguagem de marcação (HTML ou XML) devem ser apresentados em termos de formatação, de layout. Em um cenário ideal, enquanto o [HTML](http://portalwebdesigner.com/programacao/html/) é usado para estruturar os conteúdos, o CSS é utilizado para formatá-los. Dessa forma há uma enorme **integração entre o HTML e o CSS**.
+
+No inicio da Internet, apenas o HTML era utilizado na elaboração das páginas Web, com o tempo e a necessidade de **mais alternativas de formatação** dessas páginas, foram criadas novas tags e atributos de estilo no HTML para que ele pudesse atender essas necessidades de layout, passando a cumprir tanto a função de estruturação quanto a de apresentação. Porém, isto começou a criar um problema para os Web Designers pois não havia como definir um padrão que se aplicasse a todas as páginas, qualquer alteração tinha que ser aplicada em cada uma delas, tornando o desenvolvimento muito complexo principalmente em grandes portais.
